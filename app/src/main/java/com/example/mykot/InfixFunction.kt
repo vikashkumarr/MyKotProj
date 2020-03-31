@@ -23,9 +23,11 @@ infix fun InfixFunctionTest.plus(myName: InfixFunctionTest): InfixFunctionTest {
 class InfixFunctionTest {
 
     var name = ""
-
     fun show() {
-
         println(name)
     }
 }
+
+            // Infix Function
+// 1. Function should be member function or external function
+// 2. Only one parameter accepted ( Not 0 or not more than 1

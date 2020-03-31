@@ -1,0 +1,14 @@
+
+Array ->  Mutable but has Fixed Size
+
+Collections Overview :
+
+    -> Immutable Collections : Read Only Operations
+        -> Immutable List : listOf
+        -> Immutable Map  : mapOf
+        -> Immutable Set  : setOf
+
+    -> Mutable Collections : Read and Write Both
+        -> Mutable List : ArrayList, arrayListOf, mutableListOf
+        -> Mutable Map  : HashMap, hashMapOf, mutableMapOf
+        -> Mutable Set  : mutableSetOf, hashSetOf,

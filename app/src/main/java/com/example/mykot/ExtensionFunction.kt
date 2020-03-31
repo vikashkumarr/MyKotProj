@@ -4,6 +4,7 @@ fun main() {
 
     var obj1 = ExtensionFunctionTest()
     obj1.name = "Java"
+
     obj1.display()
 
     var obj2 = ExtensionFunctionTest()
